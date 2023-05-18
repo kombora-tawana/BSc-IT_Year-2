@@ -1,5 +1,4 @@
 #include <iostream>
-
 /*
  * These statements make the specified class available to this program
  */

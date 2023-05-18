@@ -14,6 +14,8 @@ A transitive dependency is when the value of a column can be determined by the v
 ## QUESTION 2
 
 > 2.1 A view can be created from 1 or more database tables. If one of the tables is dropped, analyse and conclude if the view will be retained. **(4)**
+
+A view is created from one or more tables. Views are updated when
 ***
 > 2.2 A view can be created from 1 or more database tables. If one of the tables is dropped, analyse and conclude if the view will be retained. **(6)**
 
