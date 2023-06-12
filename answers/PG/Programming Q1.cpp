@@ -14,7 +14,7 @@ int checkConditions(int array[][4], int rowSize, int colSize, set<int> condition
 int main(void)
 {
   int row, col;
-  set<int> conditions = {1, 2, 3, 6, 7, 8};
+  set<int> conditions = {1, 2, 3, 4, 5, 6, 7, 8};
   int arr[3][4] = {{1, 2, 3, 4},
                    {3, 4, 5, 6},
                    {5, 6, 7, 8}};

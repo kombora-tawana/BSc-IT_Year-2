@@ -4,13 +4,14 @@
 
 > 1.1 What business benefits do cloud computing services provide? **(15)**
 
-1. Focused IT resource management - The primary responsibility of a cloud provider is to oversee security, storage, access, etc. Contrarily, the company may not be contemplating the cloud because their area of expertise lies elsewhere, such as in logistics.
-2. Scalibility - meaning the cloud can repsond to shifts in demand increasing or decreasing the resources accessed to cope.
-3. Cost savings - Reduced upfront + infrastrutcure costs. When utilizing a cloud, as th ecloud consumer you no longer need to maintain your own computers, storage devices and the associated software which costs a lot more than paying for a managed service.
-4. Security -
-5. On-Demand Self-Service -
-6. Flexibility - Pay as you use model
-7. Collaboration -
+1. **Focused IT resource management** - The primary responsibility of a cloud provider is to oversee security, storage, access, etc. Contrarily, the company may not be contemplating the cloud because their area of expertise lies elsewhere, such as in logistics.
+2. **Scalibility** - meaning the cloud can repsond to shifts in demand increasing or decreasing the resources accessed to cope.
+3. **Cost savings - Reduced upfront + infrastrutcure costs**. When utilizing a cloud, as the cloud consumer you no longer need to maintain your own hardware: computers; storage devices; networking equipment and the associated software cloud computing allows business to engage in a pay as you go model which reduces costs.
+4. **Security** -
+5. **On-Demand Self-Service** -
+6. **Flexibility** - Pay as you use model
+7. **Collaboration** -
+8. **Flexibility** - cloud services allow for rapid deployment of resources which lets customers quickly launch new applications or services quickly.
 
 > 1.2 What are the risks or challenges that business face as a result of cloud computing services? **(15)*
 
